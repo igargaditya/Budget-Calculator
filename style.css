@@ -60,9 +60,7 @@ input::-webkit-outer-spin-button, input::-webkit-inner-spin-button {
     font-family: 'Gilroy Bold';
 }
 
-.budget-header{
 
-}
 
 .budget-header .balance{
     margin-top: 45px;
@@ -216,14 +214,11 @@ input::-webkit-outer-spin-button, input::-webkit-inner-spin-button {
     height: 20px;
     right: 20px;
     cursor: pointer;
-    background-image: url('icon/trash.png');
+    background-image: url('trash.png');
     background-size: 20px 20px;
     background-repeat: no-repeat;
 }
 
-.budget-dashboard #all ul.list li.income{
-
-}
 .budget-dashboard #all ul.list li.expense{
     color: #f0624d;
 }
@@ -315,7 +310,7 @@ input::-webkit-outer-spin-button, input::-webkit-inner-spin-button {
     height: 20px;
     right: 50px;
     cursor: pointer;
-    background-image: url("icon/edit.png");
+    background-image: url("edit.png");
     background-size: 20px 20px;
     background-repeat: no-repeat;
 }
@@ -326,7 +321,7 @@ input::-webkit-outer-spin-button, input::-webkit-inner-spin-button {
     height: 20px;
     right: 20px;
     cursor: pointer;
-    background-image: url('icon/trash.png');
+    background-image: url('trash.png');
     background-size: 20px 20px;
     background-repeat: no-repeat;
 }
@@ -417,7 +412,7 @@ input::-webkit-outer-spin-button, input::-webkit-inner-spin-button {
     height: 20px;
     right: 50px;
     cursor: pointer;
-    background-image: url("icon/edit.png");
+    background-image: url("edit.png");
     background-size: 20px 20px;
     background-repeat: no-repeat;
 }
@@ -428,7 +423,7 @@ input::-webkit-outer-spin-button, input::-webkit-inner-spin-button {
     height: 20px;
     right: 20px;
     cursor: pointer;
-    background-image: url('icon/trash.png');
+    background-image: url('trash.png');
     background-size: 20px 20px;
     background-repeat: no-repeat;
 }
